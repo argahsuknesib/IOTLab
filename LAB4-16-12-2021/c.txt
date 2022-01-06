@@ -1,0 +1,11 @@
+	{"devicetype":"my_hue_app#Milad Zahedyami"}
+
+6XM076EpSB9C92pV1GMFwGUaGcqnfanKrlOe0RQn
+
+
+
+GfqgWOYiM1+47P8el/iPMIKk
+
+username = FTIiKTYwCg0rHRQsAjcsIRA
+clientId = FTIiKTYwCg0rHRQsAjcsIRA
+password = GfqgWOYiM1+47P8el/iPMIKk
